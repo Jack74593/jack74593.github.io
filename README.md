@@ -1,2 +1,2 @@
-#This is a website, what about it
+This is a website, what about it
 
