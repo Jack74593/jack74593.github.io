@@ -25,7 +25,7 @@ __________________________________________________________________________
 
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/IrregularVynixu/Vynixius/main/Bypasses", true))()```
 
-#### Please note: Vynixius Loader and Bypass is now discontinued. Also, to run Vynixu's scripts, you need a key in https://discord.gg/vynixius.
+#### Please note: Vynixius Loader and Bypass is now discontinued. Also, to run Vynixu's scripts, you need a key in the [Discord server](https://discord.gg/vynixius).
 
 __________________________________________________________________________
 
