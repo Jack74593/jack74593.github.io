@@ -33,16 +33,18 @@ __________________________________________________________________________
 __________________________________________________________________________
 ## PAID
 __________________________________________________________________________
-#### Synapse X: https://x.synapse.to/
+#### Synapse X: [https://x.synapse.to](https://x.synapse.to/)
 
-#### ScriptWare: https://script-ware.com/
+#### ScriptWare: [https://script-ware.com/](https://script-ware.com/)
 __________________________________________________________________________
 ## FREE (may have a key system)
 __________________________________________________________________________
-#### JJSploit (not recommended): https://wearedevs.net/d/JJSploit
+#### JJSploit (not recommended): [https://wearedevs.net/d/JJSploit](https://wearedevs.net/d/JJSploit)
 
-#### KRNL: https://krnl.place
+#### KRNL: [https://krnl.place](https://wearedevs.net/d/JJSploit)
 
-#### Oxygen U: https://oxygenu.xyz/
+#### Oxygen U: [https://oxygenu.xyz](https://wearedevs.net/d/JJSploit)
+
+#### Hydrogen: [https://hydrogen.sh](https://hydrogen.sh)
 
 
