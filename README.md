@@ -8,13 +8,9 @@ __________________________________________________________________________
 
 ```loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()```
 
-__________________________________________________________________________
-
 #### Pro Fisher by lilcoder:
 
 ```loadstring(game:HttpGet("https://lilcoderscripts.online/Scripts/ProFisher"))()```
-
-__________________________________________________________________________
 
 #### Vynixius Loader by Vynixu: 
 
@@ -31,13 +27,13 @@ __________________________________________________________________________
 # Executors:
 __________________________________________________________________________
 ## PAID
-__________________________________________________________________________
+
 #### Synapse X: [https://x.synapse.to](https://x.synapse.to/)
 
 #### ScriptWare: [https://script-ware.com/](https://script-ware.com/)
-__________________________________________________________________________
+
 ## FREE (may have a key system)
-__________________________________________________________________________
+
 #### JJSploit (not recommended): [https://wearedevs.net/d/JJSploit](https://wearedevs.net/d/JJSploit)
 
 #### KRNL: [https://krnl.place](https://wearedevs.net/d/JJSploit)
