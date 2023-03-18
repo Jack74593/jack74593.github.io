@@ -1,5 +1,5 @@
 
-## These are my collections of scripts and exploits that I could find, enjoy :)
+## hi
 
 # Scripts:
 __________________________________________________________________________
