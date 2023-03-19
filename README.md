@@ -38,9 +38,9 @@ __________________________________________________________________________
 
 #### JJSploit (not recommended): [https://wearedevs.net/d/JJSploit](https://wearedevs.net/d/JJSploit)
 
-#### KRNL: [https://krnl.place](https://wearedevs.net/d/JJSploit)
+#### KRNL: [https://krnl.place](https://krnl.place)
 
-#### Oxygen U: [https://oxygenu.xyz](https://wearedevs.net/d/JJSploit)
+#### Oxygen U: [https://oxygenu.xyz](https://oxygenu.xyz)
 
 #### Hydrogen: [https://hydrogen.sh](https://hydrogen.sh)
 
