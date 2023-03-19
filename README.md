@@ -1,5 +1,5 @@
 
-# Jack's Roblox Exploiting Collection
+# Jack's Roblox Exploiting Collection :)
 
 ### These are scripts and exploits that I found. I may add some more (if i can). Feel free to [contact me](https://jack74593.github.io/#powered-by-github-pages-website-built-entirely-by-jack74593--discord-jack745935485) if you have any questions or submissions!
 
