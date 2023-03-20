@@ -8,19 +8,27 @@ __________________________________________________________________________
 
 #### Infinite Yield by EdgeIY:
 
-```loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()```
+```
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+```
 
 #### Pro Fisher by lilcoder:
 
-```loadstring(game:HttpGet("https://lilcoderscripts.online/Scripts/ProFisher"))()```
+```
+loadstring(game:HttpGet("https://lilcoderscripts.online/Scripts/ProFisher"))()
+```
 
 #### Vynixius Loader by Vynixu: 
 
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua"))()```
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua"))()
+```
 
 #### Bypass:
 
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/IrregularVynixu/Vynixius/main/Bypasses", true))()```
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IrregularVynixu/Vynixius/main/Bypasses", true))()
+```
 
 #### Please note: Vynixius Loader and Bypass is now discontinued. Also, to run Vynixu's scripts, you need a key in the [Discord server](https://discord.gg/vynixius).
 
