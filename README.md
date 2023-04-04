@@ -6,25 +6,25 @@
 # Scripts:
 __________________________________________________________________________
 
-#### Infinite Yield by EdgeIY:
+Infinite Yield by EdgeIY:
 
 ```
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 ```
 
-#### Pro Fisher by lilcoder:
+Pro Fisher by lilcoder:
 
 ```
 loadstring(game:HttpGet("https://lilcoderscripts.online/Scripts/ProFisher"))()
 ```
 
-#### Vynixius Loader by Vynixu: 
+Vynixius Loader by Vynixu: 
 
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua"))()
 ```
 
-#### Bypass:
+Bypass:
 
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IrregularVynixu/Vynixius/main/Bypasses", true))()
@@ -38,19 +38,19 @@ __________________________________________________________________________
 __________________________________________________________________________
 ## PAID
 
-#### Synapse X: [https://x.synapse.to](https://x.synapse.to/)
+Synapse X: [https://x.synapse.to](https://x.synapse.to/)
 
-#### ScriptWare: [https://script-ware.com/](https://script-ware.com/)
+ScriptWare: [https://script-ware.com/](https://script-ware.com/)
 
 ## FREE (may have a key system)
 
-#### JJSploit (not recommended): [https://wearedevs.net/d/JJSploit](https://wearedevs.net/d/JJSploit)
+JJSploit (not recommended): [https://wearedevs.net/d/JJSploit](https://wearedevs.net/d/JJSploit)
 
-#### KRNL: [https://krnl.place](https://krnl.place)
+KRNL: [https://krnl.place](https://krnl.place)
 
-#### Oxygen U: [https://oxygenu.xyz](https://oxygenu.xyz)
+Oxygen U: [https://oxygenu.xyz](https://oxygenu.xyz)
 
-#### Hydrogen: [https://hydrogen.sh](https://hydrogen.sh)
+Hydrogen: [https://hydrogen.sh](https://hydrogen.sh)
 
 <br>
 
