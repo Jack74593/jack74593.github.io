@@ -1,4 +1,4 @@
-# Hello!
+# Hello again!
 
 My name is Jack, and welcome to my personal site.
 Keep in mind it is still WIP, so don't expect too much.
