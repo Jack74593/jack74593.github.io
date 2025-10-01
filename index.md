@@ -1,4 +1,4 @@
-# Hello again!
+# Hello!
 
 My name is Jack, and welcome to my personal site.
 Keep in mind it is still WIP, so don't expect too much.
@@ -22,4 +22,4 @@ Keep in mind it is still WIP, so don't expect too much.
 - [GitHub](https://github.com/Jack74593)
 - [Twitter](https://x.com/_SilentClubstep)
 
--# Last updated as of 01 October 2025
+##### Last updated as of 01 October 2025
